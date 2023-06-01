@@ -1,0 +1,67 @@
+body{
+    background-image:url(/home/home/property_website/images/real-estate-Luxury-home.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    margin-bottom: 0%;
+}
+div.top-title h1{
+    margin:4% auto 4% auto ;
+    text-align: center;
+    font-weight: bold;
+    background-color:black;
+    opacity:0.5;
+    font-size: 48px;
+    color: white;
+}
+.breadcrumb{
+    margin-top: 29%;
+}
+div.about-us{
+    background-color: white;
+    text-align: center;
+    padding: auto 12%;
+}
+.about-us h1{
+    color: blueviolet;
+}
+.about-us p{
+    color:black;
+}
+.team{
+    width:15rem;
+    border-radius: 100%;
+}
+.bottom-section{
+    padding-bottom:3%;
+}
+.bottom-section-1 {
+    padding: 3% 10%;
+    background-color: #105fad;
+    position: relative;
+    z-index: 1;
+    opacity: 0.8;
+    padding-bottom: 5%;
+}
+div.col-lg-4 h4,
+p{
+    text-align: center;
+    margin: 3%;
+    font-weight: bold;
+    color: white;
+    opacity: 1;
+}
+
+#bottom-icons {
+    font-size: 3rem;
+    padding: 10%;
+    color: azure;
+    opacity: 1;
+}
+
+.copyright-bottom {
+    background-color: rgb(13, 76, 224);
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0%;
+}

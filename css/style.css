@@ -1,0 +1,125 @@
+body{
+    background-image:url(/home/home/property_website/images/real-estate-Luxury-home.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: absolute;
+    margin-bottom: 0%;
+}
+.logo-image {
+    width: 30px;
+}
+
+.social-media {
+    padding-right: 10px;
+}
+
+.title-image {
+    width: 100%;
+    margin-top: 6%;
+    height: 100%;
+    position: absolute;
+}
+.listing{
+    background-color: white;
+}
+.listing-homes {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.card {
+    width: 18rem;
+    text-align: center;
+}
+
+.col-lg-4 {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+.row-1 {
+    padding: 0% 10%;
+} 
+div.card-bo{
+    border:2px;
+    border-color: black;
+}
+div.listing p {
+    color: #007bff;
+    font-size: medium;
+}
+
+.bottom-section-1 {
+    padding: 3% 10%;
+    background-color: #105fad;
+    color: white;
+    opacity: 0.8;
+}
+
+#bottom-icons {
+    font-size: 3rem;
+    padding: 10%;
+    color: azure;
+}
+
+.copyright-bottom {
+    background-color: rgb(13, 76, 224);
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0%;
+}
+
+select {
+    width: 30%;
+}
+
+.property-searching {
+    padding: 3% 10%;
+    margin: 5%
+}
+
+.searching-form {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div.property-searching {
+
+    position: relative;
+    background-color: rgb(12, 12, 12);
+    border: 1px solid black;
+    opacity: 0.7;
+    z-index: 1;
+}
+
+div.property-searching h1,
+p {
+    text-align: center;
+    margin: 3%;
+    font-weight: bold;
+    color: white;
+    opacity: 1;
+}
+
+.div.property-searching form {
+    opacity: 1;
+    margin: 3%;
+}
+
+.btn-block {
+    margin: 3%;
+    width: 50%;
+}
+
+
+/* .bottom-image-2 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.3;
+} */
