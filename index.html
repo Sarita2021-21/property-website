@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Main HTML</title>
+</head>
+<body>
+  <div id="index">
+    <!-- Content from included.html will be displayed here -->
+  </div>
+
+  <script>
+    // Fetch content from included.html and render it into #index
+    fetch('html/index.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('index').innerHTML = data;
+      })
+      .catch(error => console.error(error));
+  </script>
+</body>
+</html>
